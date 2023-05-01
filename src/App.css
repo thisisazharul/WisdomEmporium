@@ -1,0 +1,6 @@
+.App {
+	font-family: "Rubik", "Crimson Pro", '"JetBrains Mono"', sans-serif;
+	background-image: url("/public/bg.png");
+	background-color: #eff3f6;
+	background-repeat: no-repeat;
+}

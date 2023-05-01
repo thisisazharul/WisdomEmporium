@@ -1,0 +1,38 @@
+[
+	{
+		"id": 4001,
+		"author_name": "Md. Azharul Islam",
+		"blog_title": "Twitter takes its algorithm ‘open-source,’ as Elon Musk promised",
+		"author_img": "https://ouch-cdn2.icons8.com/9SUVZzoo0vffz6cK_fjVlTxb-i7UxpNcDw2-LUHSmSc/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzU1/LzRhNjBlYTg1LTAz/MWQtNGZiZi1hOTc0/LTA3MjMwYjA0NTRh/ZS5zdmc.png",
+		"blog_cover": "https://images.unsplash.com/photo-1640620473096-6b20279d4fab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+		"read_time": 4,
+		"published_date": "April 01, 2023"
+	},
+	{
+		"id": 4002,
+		"author_name": "Suraiya Koly",
+		"blog_title": "Google’s ADT partnership finally has a new home security product to show for it",
+		"author_img": "https://ouch-cdn2.icons8.com/TIFCk3Ze9wDSXiIisTv81_omXKThwEQYBGr7qC8W4xo/rs:fit:256:205/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzAz/LzFiZGY5MDhlLWUx/ZWEtNGI1OC1hMjcz/LWQzNjg3OTZlNjA5/My5zdmc.png",
+		"blog_cover": "https://images.unsplash.com/photo-1585427313122-4a7c145d3431?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+		"read_time": 3,
+		"published_date": "March 26, 2023"
+	},
+	{
+		"id": 4003,
+		"author_name": "Maria Sulatana",
+		"blog_title": "Amazon just opened up its Sidewalk network for anyone to build connected gadgets on",
+		"author_img": "https://ouch-cdn2.icons8.com/_x1UagQuvTLJ3HJTmK6qRLFAYch0tD1Mh6waIWXJf7M/rs:fit:256:212/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzY3/LzMxNzM0MWZlLTA4/ZWUtNGU3MC05OTJj/LWU4NTllZDcxZWMy/Mi5zdmc.png",
+		"blog_cover": "https://images.unsplash.com/photo-1624984608976-8a7358d25bce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+		"read_time": 8,
+		"published_date": "February 21, 2023"
+	},
+	{
+		"id": 4004,
+		"author_name": "Tahsan Raiyan",
+		"blog_title": "AirPods Pro with USB-C are supposedly on the way",
+		"author_img": "https://ouch-cdn2.icons8.com/9QT2FYw_cduZ-oiScqsvt0AbdavwqpkFRooVaDmNG8A/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjY3/L2E5ZjBiODJkLTNh/M2MtNDhmZi1iYjM0/LWNiYjczMWQwNmFh/NS5zdmc.png",
+		"blog_cover": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1626&q=80",
+		"read_time": 5,
+		"published_date": "January 15, 2023"
+	}
+]

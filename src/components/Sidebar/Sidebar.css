@@ -1,0 +1,42 @@
+.spent-time {
+  font-size: 24px;
+  border-radius: 12px;
+  border: 2px solid rgba(0, 0, 255, 0.162);
+  padding: 30px;
+  background-color: rgba(86, 96, 210, 0.153);
+  color: rgb(66, 66, 228);
+  font-weight: bold;
+}
+
+.bookmarked-blog {
+  background-color: rgba(17, 17, 17, 0.05);
+}
+
+.bookmarked-blog h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bookmarked-text {
+  background-color: rgba(17, 17, 17, 0.05);
+  border-radius: 12px;
+  margin: 12px;
+  padding: 15px;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 576px) {
+  .bookmarked-blog h2 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  .spent-time {
+    font-size: 16px;
+  }
+
+  .bookmarked-text {
+    font-size: 16px;
+  }
+}
